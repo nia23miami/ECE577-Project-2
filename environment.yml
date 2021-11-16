@@ -1,0 +1,14 @@
+dependencies:
+  - python
+  - numpy
+  - matplotlib
+  - seaborn
+  - pandas
+  - sklearn
+  - graphviz
+  - pip
+  - pip:
+    - nbgitpuller
+    - sphinx-gallery
+    - pandas
+    - matplotlib
